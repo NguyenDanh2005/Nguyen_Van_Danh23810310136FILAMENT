@@ -42,5 +42,8 @@
 - `php artisan make:filament-user`
 - `php artisan storage:link`
 - `php artisan serve`
+<img width="1888" height="1009" alt="Screenshot 2026-04-06 190049" src="https://github.com/user-attachments/assets/7b162705-a75b-4094-ad23-fe9fd9458203" />
+<img width="1909" height="1117" alt="Screenshot 2026-04-06 190208" src="https://github.com/user-attachments/assets/6b706344-a798-43e4-aa8a-dcae504e5757" />
+<img width="1914" height="1003" alt="Screenshot 2026-04-06 190222" src="https://github.com/user-attachments/assets/ac4a931c-6c5e-4179-8590-a737ef824d30" />
 
 
